@@ -1,3 +1,6 @@
 [submodule "summarizer"]
 	path = summarizer
 	url = https://github.com/Chidi09/summarizer-model.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/Chidi09/web-app.git
