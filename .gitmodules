@@ -1,0 +1,3 @@
+[submodule "summarizer"]
+	path = summarizer
+	url = https://github.com/Chidi09/summarizer-model.git
