@@ -25,7 +25,7 @@
     const jwt = require('jsonwebtoken'); // Import jsonwebtoken for JWTs
 
     // Import YOUR custom summarizer module (installed as a local dependency)
-    const summarizeText = require('summarizer-module'); // Corrected import path
+    const summarizeText = require('./summarizer/src'); // or src/index if needed
 
     // Import admin utility functions
     const { ensureAdminsExist } = require('./adminUtils'); // Corrected import name

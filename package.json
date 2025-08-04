@@ -29,6 +29,7 @@
     "passport-discord": "^0.1.4",
     "pdf-parse": "^1.1.1",
     "summarizer-module": "file:../summarizer-module",
+    "textract": "^2.5.0",
     "web-push": "^3.6.7"
   }
 }
